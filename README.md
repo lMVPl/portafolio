@@ -17,7 +17,7 @@ El repositorio contiene los siguientes archivos y carpetas principales:
 - `assets/` - Carpeta con imágenes y recursos.
 
 ## Vista previa
-Puedes ver mi portafolio en [GitHub Pages](#) *(Reemplaza con la URL de tu página en GitHub Pages cuando esté disponible).*
+Puedes ver mi portafolio en [GitHub Pages](https://lmvpl.github.io/portafolio/)
 
 ## Redes Sociales
 Puedes encontrarme en:
